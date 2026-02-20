@@ -158,4 +158,4 @@ python scripts/get_vendor_summary.py
 **Ashitosh Kuchekar**  
 Data Analyst  
 📧 Email: ashitoshkuchekar9@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in//](https://www.linkedin.com/in/ashitosh-kuchekar-472250272?utm_source=share_via&utm_content=profile&utm_medium=member_android))  
+🔗 [LinkedIn]([https://www.linkedin.com/in//](https://www.linkedin.com/in/ashitosh-kuchekar-472250272?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
